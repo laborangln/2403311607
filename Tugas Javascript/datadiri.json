@@ -1,0 +1,12 @@
+[
+  { "nama": "Andi", "umur": 21, "alamat": "Jakarta", "jenis_kelamin": "Laki-laki", "pekerjaan": "Mahasiswa" },
+  { "nama": "Budi", "umur": 25, "alamat": "Bandung", "jenis_kelamin": "Laki-laki", "pekerjaan": "Programmer" },
+  { "nama": "Citra", "umur": 23, "alamat": "Surabaya", "jenis_kelamin": "Perempuan", "pekerjaan": "Desainer" },
+  { "nama": "Dewi", "umur": 22, "alamat": "Yogyakarta", "jenis_kelamin": "Perempuan", "pekerjaan": "Guru" },
+  { "nama": "Eko", "umur": 24, "alamat": "Semarang", "jenis_kelamin": "Laki-laki", "pekerjaan": "Marketing" },
+  { "nama": "Fani", "umur": 26, "alamat": "Medan", "jenis_kelamin": "Perempuan", "pekerjaan": "Perawat" },
+  { "nama": "Gilang", "umur": 27, "alamat": "Malang", "jenis_kelamin": "Laki-laki", "pekerjaan": "Teknisi" },
+  { "nama": "Hana", "umur": 20, "alamat": "Denpasar", "jenis_kelamin": "Perempuan", "pekerjaan": "Pelajar" },
+  { "nama": "Irfan", "umur": 28, "alamat": "Makassar", "jenis_kelamin": "Laki-laki", "pekerjaan": "Pengusaha" },
+  { "nama": "Jihan", "umur": 22, "alamat": "Bogor", "jenis_kelamin": "Perempuan", "pekerjaan": "Karyawan" }
+]
